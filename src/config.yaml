@@ -1,6 +1,6 @@
 site:
-  name: BLT
-  site: 'https://barrylutztelescope.com'
+  name: AstroWind
+  site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
 
